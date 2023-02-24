@@ -4,5 +4,6 @@
 *CACHEDIR.TAG
 cache
 *venv*
-*__pycache__*
+__pycache__/
 *idea
+*.pyc
