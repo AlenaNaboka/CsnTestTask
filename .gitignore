@@ -1,0 +1,6 @@
+*.log
+*.pytest_cache
+*.lock*.xlsx
+*CACHEDIR.TAG
+cache
+*venv*
