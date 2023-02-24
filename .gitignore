@@ -4,3 +4,4 @@
 *CACHEDIR.TAG
 cache
 *venv*
+*__pycahce__*
